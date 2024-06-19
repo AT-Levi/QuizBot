@@ -1,0 +1,252 @@
+[
+{
+  "question":"What is the capital of France?",
+  "Aoption" :"London",
+  "Boption" :"Paris",
+  "Coption" :"Tashkent",
+  "Doption" :"Moskow",
+  "rightOption":"B"
+},
+{
+  "question":"What is the capital of USA?",
+  "Aoption" :"London",
+  "Boption" :"Paris",
+  "Coption" :"Washington",
+  "Doption" :"Moskow",
+  "rightOption":"C"
+},
+{
+  "question":"What is the capital of Uzbekistan?",
+  "Aoption" :"Bukhara",
+  "Boption" :"Yangiyol",
+  "Coption" :"Samarkand",
+  "Doption" :"Tashkent",
+  "rightOption":"D"
+},
+{
+  "question":"Who is the best IT developer?",
+  "Aoption" :"Mark Zuskerberg",
+  "Boption" :"Pavel Durov",
+  "Coption" :"Bil Gates",
+  "Doption" :"Sardor R.",
+  "rightOption":"D"
+},
+{
+  "question":"What is the capital city of Australia?",
+  "Aoption" :"Sydney",
+  "Boption" :"Melbourne",
+  "Coption" :"Canberra",
+  "Doption" :"Brisbane",
+  "rightOption":"C"
+},
+{
+    "question":"What is the national bird of the United States?",
+    "Aoption" :"Eagle",
+    "Boption" :"Bald Eagle",
+    "Coption" :"Condor",
+    "Doption" :"Pigeon",
+    "rightOption":"A"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "Aoption": "Beijing",
+    "Boption": "Tokyo",
+    "Coption": "Seoul",
+    "Doption": "Kyoto",
+    "rightOption": "B"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "Aoption": "Earth",
+    "Boption": "Mars",
+    "Coption": "Jupiter",
+    "Doption": "Saturn",
+    "rightOption": "C"
+  },
+  {
+    "question": "What is the boiling point of water?",
+    "Aoption": "100 degrees Fahrenheit",
+    "Boption": "0 degrees Celsius",
+    "Coption": "100 degrees Celsius",
+    "Doption": "0 degrees Fahrenheit",
+    "rightOption": "C"
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "Aoption": "Mark Twain",
+    "Boption": "William Shakespeare",
+    "Coption": "Charles Dickens",
+    "Doption": "Jane Austen",
+    "rightOption": "B"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "Aoption": "Toronto",
+    "Boption": "Vancouver",
+    "Coption": "Ottawa",
+    "Doption": "Montreal",
+    "rightOption": "C"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "Aoption": "Au",
+    "Boption": "Ag",
+    "Coption": "Pb",
+    "Doption": "Fe",
+    "rightOption": "A"
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "Aoption": "K2",
+    "Boption": "Mount Everest",
+    "Coption": "Kangchenjunga",
+    "Doption": "Lhotse",
+    "rightOption": "B"
+  },
+  {
+    "question": "Who is known as the 'Father of Computers'?",
+    "Aoption": "Alan Turing",
+    "Boption": "Charles Babbage",
+    "Coption": "Bill Gates",
+    "Doption": "Steve Jobs",
+    "rightOption": "B"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "Aoption": "Venice",
+    "Boption": "Milan",
+    "Coption": "Rome",
+    "Doption": "Florence",
+    "rightOption": "C"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "Aoption": "Vincent van Gogh",
+    "Boption": "Pablo Picasso",
+    "Coption": "Leonardo da Vinci",
+    "Doption": "Claude Monet",
+    "rightOption": "C"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "Aoption": "Atlantic Ocean",
+    "Boption": "Indian Ocean",
+    "Coption": "Arctic Ocean",
+    "Doption": "Pacific Ocean",
+    "rightOption": "D"
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "Aoption": "Nucleus",
+    "Boption": "Mitochondria",
+    "Coption": "Ribosome",
+    "Doption": "Golgi apparatus",
+    "rightOption": "B"
+  },
+  {
+    "question": "What is the capital of Egypt?",
+    "Aoption": "Cairo",
+    "Boption": "Alexandria",
+    "Coption": "Giza",
+    "Doption": "Luxor",
+    "rightOption": "A"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "Aoption": "Alexander Fleming",
+    "Boption": "Marie Curie",
+    "Coption": "Isaac Newton",
+    "Doption": "Albert Einstein",
+    "rightOption": "A"
+  },
+  {
+    "question": "What is the smallest country in the world by land area?",
+    "Aoption": "Monaco",
+    "Boption": "San Marino",
+    "Coption": "Vatican City",
+    "Doption": "Liechtenstein",
+    "rightOption": "C"
+  },
+  {
+    "question": "What is 2 + 2?",
+    "Aoption": "3",
+    "Boption": "4",
+    "Coption": "5",
+    "Doption": "6",
+    "rightOption": "B"
+  },
+  {
+    "question": "What color is the sky on a clear day?",
+    "Aoption": "Red",
+    "Boption": "Green",
+    "Coption": "Blue",
+    "Doption": "Yellow",
+    "rightOption": "C"
+  },
+  {
+    "question": "How many days are in a week?",
+    "Aoption": "5",
+    "Boption": "6",
+    "Coption": "7",
+    "Doption": "8",
+    "rightOption": "C"
+  },
+  {
+    "question": "What is the first letter of the English alphabet?",
+    "Aoption": "A",
+    "Boption": "B",
+    "Coption": "C",
+    "Doption": "D",
+    "rightOption": "A"
+  },
+  {
+    "question": "What is the capital of England?",
+    "Aoption": "London",
+    "Boption": "Paris",
+    "Coption": "Rome",
+    "Doption": "Berlin",
+    "rightOption": "A"
+  },
+  {
+    "question": "How many legs does a spider have?",
+    "Aoption": "6",
+    "Boption": "7",
+    "Coption": "8",
+    "Doption": "9",
+    "rightOption": "C"
+  },
+  {
+    "question": "What is the opposite of 'up'?",
+    "Aoption": "Over",
+    "Boption": "Under",
+    "Coption": "Left",
+    "Doption": "Down",
+    "rightOption": "D"
+  },
+  {
+    "question": "What do bees make?",
+    "Aoption": "Milk",
+    "Boption": "Honey",
+    "Coption": "Cheese",
+    "Doption": "Bread",
+    "rightOption": "B"
+  },
+  {
+    "question": "What is the main color of a banana?",
+    "Aoption": "Red",
+    "Boption": "Green",
+    "Coption": "Yellow",
+    "Doption": "Purple",
+    "rightOption": "C"
+  },
+  {
+    "question": "Which animal is known as 'man's best friend'?",
+    "Aoption": "Cat",
+    "Boption": "Bird",
+    "Coption": "Fish",
+    "Doption": "Dog",
+    "rightOption": "D"
+  }
+
+
+]
